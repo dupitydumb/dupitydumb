@@ -8,7 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/hazelnods" target="blank"><img src="https://img.shields.io/twitter/follow/hazelnods?logo=twitter&style=for-the-badge" alt="hazelnods" /></a> </p>
 
-- 🔭 I’m currently working on [Puzzle Android Game](https://github.com/dupitydumb/HexagonalPuzzle)
+- 🔭 I’m currently working on 
+<p align="center">
+  <img width="600px" height="338" src="https://github.com/dupitydumb/Cocoki/assets/37872714/ae777c1c-d76e-4b96-bca6-0abce7e4d88d">
+  <img align="center" width="600px" height="338" src="https://github.com/dupitydumb/HexagonalPuzzle/assets/37872714/953929ba-e7ec-47c4-a5e8-8ee704da3860">
+  <p align="center">[GitHub Pages](https://github.com/dupitydumb/Cocoki)</p>
+</p>
 
 - 📫 How to reach me **mnrosyidas@gmail.com**
 
