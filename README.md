@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rosyid</h1>
-<h3 align="center">A passionate game developer</h3>
+<h1 >Hi 👋, I'm Rosyid</h1>
+<h3 >A passionate game developer</h3>
+<p> A dedicated information technology student with a passion for game development, I am eager to take on new challenges and expand my knowledge and skills. With knowledge in C# language and Unity game engine. I am committed to continuously learning and improving my craft, staying up-to-date with the latest industry trends and best practices.</p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dupitydumb&" alt="dupitydumb" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dupitydumb&label=Profile%20views&color=0e75b6&style=flat" alt="dupitydumb" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hazelnods" target="blank"><img src="https://img.shields.io/twitter/follow/hazelnods?logo=twitter&style=for-the-badge" alt="hazelnods" /></a> </p>
@@ -20,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dupitydumb&show_icons=true&locale=en&layout=compact" alt="dupitydumb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dupitydumb&" alt="dupitydumb" /></p>
+
