@@ -27,4 +27,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dupitydumb&show_icons=true&locale=en&layout=compact" alt="dupitydumb" />
 
+## 📈 GitHub Stats
+
+![dupitydumb's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupitydumb&show_icons=true&theme=radical)
 
