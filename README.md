@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Rosyid</h1>
+<h1 >Hi 👋</h1>
 <h3 >A passionate game developer</h3>
 <p> A dedicated information technology student with a passion for game development, I am eager to take on new challenges and expand my knowledge and skills. With knowledge in C# language and Unity game engine. I am committed to continuously learning and improving my craft, staying up-to-date with the latest industry trends and best practices.</p>
 
