@@ -14,11 +14,9 @@
   <img align="center" width="600px" height="338" src="https://github.com/dupitydumb/HexagonalPuzzle/assets/37872714/953929ba-e7ec-47c4-a5e8-8ee704da3860">
   <p align="center"></p>
 </p>
-- 📫 How to reach me **mnrosyidas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-nur-rosyid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-nur-rosyid/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
